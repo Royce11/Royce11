@@ -2,6 +2,11 @@
 
 <!--
 **Royce11/Royce11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Hi there, Welcome to my page.
+- I'm Sovan Pal.
+- Currently pursuing my master's degree in Computer Science at the Arizona State University in Tempe, AZ
+- Connect with me at LinkedIn https://www.linkedin.com/in/sovan-pal-165991100/
+
 
 Here are some ideas to get you started:
 
